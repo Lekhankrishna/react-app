@@ -11,6 +11,7 @@
 
 # Start in tasks/ even if run from root directory
 cd "$(dirname "$0")"
+# cd "$(dirname "$0")"
 
 # CLI, app, and test module temporary locations
 # http://unix.stackexchange.com/a/84980
